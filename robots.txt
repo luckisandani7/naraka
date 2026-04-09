@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://naraka.sandanifx.my.id/sitemap.xml
